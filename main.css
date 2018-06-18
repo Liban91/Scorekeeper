@@ -1,0 +1,42 @@
+.winner {
+  color: red;
+}
+
+#scoreindex {
+  float: none;
+  margin: 0;
+  padding: 180px 40px;
+}
+
+.text-center {
+  padding: 20px 10px;
+}
+
+.score {
+  font-family: 'Titan One', cursive;
+  font-size: 70px;
+  color: #dba62b;
+}
+
+#p1Display {
+  font-size: 60px;
+}
+
+#p2Display {
+  font-size: 60px;
+}
+
+.game {
+  font-family: 'Titan One', cursive;
+  font-size: 60px;
+}
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
